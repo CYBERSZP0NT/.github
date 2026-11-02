@@ -1,0 +1,1 @@
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=350&height=151&backgroundColor=%23000000&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22SKYNET%22%2C%22font%22%3A%22Fira+Code+Bold%22%2C%22color%22%3A%22%23ff0000%22%2C%22fontSize%22%3A77%2C%22typingSpeed%22%3A1%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
